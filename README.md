@@ -10,12 +10,15 @@
 
 * Do `docker build -t mapnik .`. It will take a long while, so best get another coffee.
 
+## Image on dockerhub
+
+* Image is available on dockerhub: `docker pull anuras/mapnik`
 
 ## Contents of the image
 
 * Ubuntu 16.04 LTS
 * Mapnik 3.0.10 (at the time of writing)
-* Node.js 6.x
+* Python 2.7 & Python 3
 
 ### Node bindings
 
